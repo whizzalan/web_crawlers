@@ -1,4 +1,5 @@
 # get data from https://stock-ai.com/
+library(magrittr)
 library(httr)
 library(jsonlite)
 
